@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Arbol.cpp
+cstddef
+-
+Arbol.h
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Arbol.h
+
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Arbol.h
+Struct.h
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Struct.h
+
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Archivo.cpp
+Archivo.h
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Archivo.h
+
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Archivo.h
+Arbol.h
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Arbol.h
+fstream
+-
+
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Struct.cpp
+Struct.h
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Struct.h
+
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Struct.h
+
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/main.cpp
+iostream
+-
+Archivo.h
+/home/pablo/Documents/Clases/EstructuraDatos2/ArbolesAVL/Archivo.h
+

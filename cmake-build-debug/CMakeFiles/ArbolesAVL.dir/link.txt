@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ArbolesAVL.dir/main.cpp.o CMakeFiles/ArbolesAVL.dir/Struct.cpp.o CMakeFiles/ArbolesAVL.dir/Arbol.cpp.o CMakeFiles/ArbolesAVL.dir/Archivo.cpp.o  -o ArbolesAVL 
